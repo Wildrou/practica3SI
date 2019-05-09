@@ -1,0 +1,23 @@
+/*
+    c4atro
+    ---------------------------
+
+    Jason Project File
+
+    This file defines the initial state of the MAS
+
+    Jason 
+    mayo 09, 2019 - 16:42:04
+*/
+
+MAS c4atro {
+
+    infrastructure: Centralised
+	environment: Blackboard
+	
+    agents:
+	
+        player1;
+
+}
+
